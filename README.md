@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hey fellows im maziar and this is a list of algorithm that i have done at my daily training</p>
+<p align="left">Hey fellows im maziar and this is a list of Challenge that i have done at my daily training</p>
 
 ###
 
