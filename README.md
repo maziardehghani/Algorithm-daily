@@ -1,4 +1,4 @@
-<h1 align="left">Algorithm Daily 🧠</h1>
+<h1 align="left">Algorithm Challenge Daily 🧠</h1>
 
 ###
 
@@ -10,6 +10,6 @@
 
 ###
 
-<p align="left">Algorithm number 1</p>
+<p align="left">Challenge number 1</p>
 
 ###
