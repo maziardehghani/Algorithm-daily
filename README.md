@@ -12,5 +12,5 @@
 
 <p align="left">⭐<a href="https://github.com/maziardehghani/Challenge-1"> Challenge number 1 </a> <span> solve karim issue for choosing name </span></p>
 <p align="left">⭐<a href="https://github.com/maziardehghani/Challenge-2"> Challenge number 2 </a> <span> solve karim issue for pronunciation words </span></p>
-
+<p align="left">⭐<a href="https://github.com/maziardehghani/Challenge-3"> Challenge number 3 </a> <span> solve crime mystery </span></p>
 ###
